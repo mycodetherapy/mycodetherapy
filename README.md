@@ -4,6 +4,9 @@
 - :robot: С уважением отношусь к роботам и конвейрам
 - 📫 Если хотите написат мне, то пишите лучше сюда: https://t.me/maoddzen ,т.к. тут у меня настроены уведомления, а тут: ovmaksim05@gmail.com уведомления отключены.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mycodetherapy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mycodetherapy)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 mycodetherapy/mycodetherapy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
