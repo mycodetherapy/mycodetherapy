@@ -1,4 +1,4 @@
-[![Mesto-Banner](./media/mesto-banner.png)](https://mycodetherapy.github.io/mesto/index.html)
+[![Mesto-Banner](./media/new-mesto-banner.png)](https://mycodetherapy.github.io/mesto/index.html)
 
 - 👋 **Привет, меня зовут Максим!**
 - :rocket: Хочу работать у Илона Маска! Но не считаю себя достойным
