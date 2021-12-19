@@ -1,11 +1,12 @@
 [![Mesto-Banner](./media/mesto-banner-robot.png)](https://mycodetherapy.github.io/mesto/index.html)
 
 - 👋 **Привет, меня зовут Максим!**
-- :rocket: Хочу работать у Илона Маска! Но не считаю себя достойным
-- :juggling_person: Поэтому согласен и на Безоса ;-)
-- 📫 Если хотите написат мне, то пишите лучше сюда: https://t.me/maoddzen ,т.к. тут у меня настроены уведомления, а тут: ovmaksim05@gmail.com уведомления отключены.
+- :juggling_person: Хочу работать в мире, где нет жесткого деления на Front-end и Back-end
+- :four_leaf_clover: Мечтаю попасть на активно развивающийся проект
+- :mage: В команду настоящих профессионалов
+- 📫 С нетерпением жду весточки на: https://t.me/maoddzen , или: ovmaksim05@gmail.com
 
-:mechanic: **Мои инструменты:** 
+:hammer_and_wrench: **Мои инструменты:** 
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="34">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="32">
