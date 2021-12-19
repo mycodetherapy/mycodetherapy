@@ -17,8 +17,8 @@
 
 :rofl: **Моя статистика:**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mycodetherapy&show_owner=mao132&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mycodetherapy&show_owner=mao132&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mycodetherapy&show_owner=mao132&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mycodetherapy&show_owner=mao132&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 mycodetherapy/mycodetherapy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
