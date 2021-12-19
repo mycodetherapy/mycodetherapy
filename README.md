@@ -15,7 +15,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="38">
 </p>
 
-:rofl: **Моя статистика:**
+:chart_with_upwards_trend: **Моя статистика:**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mycodetherapy&show_owner=mao132&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mycodetherapy&show_owner=mao132&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
