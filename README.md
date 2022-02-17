@@ -1,4 +1,4 @@
-[![Mesto-Banner](./media/mesto-banner-robot.png)](https://mycodetherapy.github.io/mesto/index.html)
+[![Mesto-Banner](./media/mesto-banner-robot.png)](https://mycodetherapy.github.io/mesto-react-public)
 
 - 👋 **Привет, меня зовут Максим!**
 - :juggling_person: Хочу работать в мире, где нет жесткого деления на Front-end и Back-end
