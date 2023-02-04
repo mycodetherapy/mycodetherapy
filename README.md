@@ -1,4 +1,4 @@
-[![Mesto-Banner](./media/mesto-banner-robot.png)](https://cryptoarm.ru/cryptoarm-gost3/)
+[![Mesto-Banner](./media/current-project-robot.png)](https://cryptoarm.ru/cryptoarm-gost3/)
 
 - 👋 **Hello, my name is Maxim!**
 - :juggling_person: I want to work in a world where there is no rigid division into Front-end and Backend
