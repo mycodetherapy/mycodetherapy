@@ -1,7 +1,6 @@
 [![Mesto-Banner](./media/current-project-robot.png)](https://cryptoarm.ru/cryptoarm-gost3/)
 
 - 👋 **Hello, my name is Maxim!**
-- :juggling_person: I want to work in a world where there is no rigid division into Front-end and Backend
 - :four_leaf_clover: My dream is to join an actively developing project
 - :mage: Join a team of true professionals
 - 📫 I'm looking forward to the news: https://t.me/maoddzen , or: ovmaksim05@gmail.com
